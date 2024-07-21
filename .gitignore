@@ -1,0 +1,9 @@
+*.log
+
+
+*History/						
+*Project Logs for Gateway/
+*Project Logs for Node/
+*debug/
+
+*_previews/
