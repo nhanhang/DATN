@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Gateway.SchDoc
+Record=SheetSymbol|SourceDocument=Gateway.SchDoc|Designator=1.POWER|SchDesignator=1.POWER|FileName=POWER_GATEWAY.SchDoc|SymbolType=Normal|RawFileName=POWER_GATEWAY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Gateway.SchDoc|Designator=2.MCU|SchDesignator=2.MCU|FileName=MCU_GATEWAY.SchDoc|SymbolType=Normal|RawFileName=MCU_GATEWAY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Gateway.SchDoc|Designator=3.4G|SchDesignator=3.4G|FileName=4G_GATEWAY.SchDoc|SymbolType=Normal|RawFileName=4G_GATEWAY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

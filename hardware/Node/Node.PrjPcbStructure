@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Node.SchDoc
+Record=SheetSymbol|SourceDocument=Node.SchDoc|Designator=1.MCU|SchDesignator=1.MCU|FileName=MCU_NODE.SchDoc|SymbolType=Normal|RawFileName=MCU_NODE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Node.SchDoc|Designator=2.POWER|SchDesignator=2.POWER|FileName=POWER_NODE.SchDoc|SymbolType=Normal|RawFileName=POWER_NODE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Node.SchDoc|Designator=3.GPS|SchDesignator=3.GPS|FileName=GPS_L80.SchDoc|SymbolType=Normal|RawFileName=GPS_L80.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Node.SchDoc|Designator=4.SIM|SchDesignator=4.SIM|FileName=SIM_NODE.SchDoc|SymbolType=Normal|RawFileName=SIM_NODE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Node.SchDoc|Designator=5.Support|SchDesignator=5.Support|FileName=Support_NODE.SchDoc|SymbolType=Normal|RawFileName=Support_NODE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
